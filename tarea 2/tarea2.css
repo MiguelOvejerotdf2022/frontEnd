@@ -1,0 +1,50 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(75, 28, 28);
+    height: 200px;
+}
+
+h2{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(48, 27, 58);
+    height: auto;
+    width: auto;
+    
+}
+
+p{
+    font-size: auto;
+    font-family: fantasy;
+    color: rgb(80, 25, 25);
+}
+
+ol{
+    font-size: 30px;
+    color: blue;
+    font-style: italic;
+    height: auto;
+}
+
+img{
+    height: 0 auto;
+    width: 300px;
+    border: solid 10px brown;
+}
+
+.contenedorGeneral{
+    background-color: brown;
+    border: solid 2px black;
+    width: 380px;
+    height: 0 auto;
+    margin: 100px;
+    display: inline-block;
+    
+}
+
+body{
+    background-color: cadetblue;
+}
+
