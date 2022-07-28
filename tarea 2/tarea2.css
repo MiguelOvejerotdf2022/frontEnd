@@ -12,13 +12,13 @@ h2{
     color: rgb(48, 27, 58);
     height: auto;
     width: auto;
-    
 }
 
 p{
     font-size: auto;
     font-family: fantasy;
     color: rgb(80, 25, 25);
+    
 }
 
 ol{
@@ -26,25 +26,45 @@ ol{
     color: blue;
     font-style: italic;
     height: auto;
+    margin-top: 10%;
+    margin-bottom: 15%;
 }
 
 img{
-    height: 0 auto;
-    width: 300px;
+    height: auto;
+    width: 500px;
     border: solid 10px brown;
+    margin: 10px;
 }
 
 .contenedorGeneral{
     background-color: brown;
-    border: solid 2px black;
-    width: 380px;
-    height: 0 auto;
-    margin: 100px;
-    display: inline-block;
+    border: solid 2px cadetblue;
+    width: 600px;
+    height: auto;
+    margin: 10px;
+    /*display: inline-block;*/
+    text-align: center;
     
 }
 
 body{
     background-color: cadetblue;
 }
+
+.resaltar{
+    font-family: cursive;
+    color: rgb(21, 15, 71);
+}
+
+.encabezado{
+    display: flex;
+}
+
+.cuerpo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 

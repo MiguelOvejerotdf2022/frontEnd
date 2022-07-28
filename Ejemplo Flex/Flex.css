@@ -1,0 +1,70 @@
+.Padre{
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+    
+}
+
+.Padre2{
+    display: flex;
+    margin-top: 10px;
+    
+        
+    
+}
+
+.div1{
+    border: solid 2px rgb(255, 0, 0);
+    width: auto;
+    
+    
+}
+
+.div2{
+    border: solid 2px rgb(111, 0, 255);
+    
+    
+}
+
+.div3{
+    border: solid 2px rgb(25, 0, 255);
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*.resaltar{
+    color: blue;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.div1{
+    width: 500px;
+    margin: 0 auto;
+    border: solid 2px red ;
+    
+}
+
+.div2{
+    width: 500px;
+    margin: 0 auto;
+    border: solid 2px rgb(0, 4, 255) ;
+    
+}
+
+.div3{
+    border: solid 3px violet;
+} */
